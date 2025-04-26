@@ -7,7 +7,7 @@ Your privacy is important to us. This Privacy Policy explains how we collect, us
 
 ⸻
 
-1. Information We Collect
+**1. Information We Collect**
 
 We do not collect any personally identifiable information (PII) from users.
 Specifically:
@@ -20,7 +20,7 @@ The app is designed for offline use. All learning materials (questions, vocabula
 
 ⸻
 
-2. Purchases and Payments
+**2. Purchases and Payments**
 
 Our app offers a one-time in-app purchase to unlock all content.
 	•	Payments are processed securely through Apple’s In-App Purchase system.
@@ -31,7 +31,7 @@ For more information about Apple’s payment processing and privacy practices, p
 
 ⸻
 
-3. App Usage Data
+**3. App Usage Data**
 
 We do not collect analytics data within the app itself.
 
@@ -43,7 +43,7 @@ You can manage these settings on your iOS device under Settings > Privacy > Anal
 
 ⸻
 
-4. Data Sharing
+**4. Data Sharing**
 
 Since we do not collect any personal data:
 	•	We do not sell, rent, or share user information with third parties.
@@ -51,7 +51,7 @@ Since we do not collect any personal data:
 
 ⸻
 
-5. Data Security
+**5. Data Security**
 
 Although we do not collect personal data, we take the following measures to maintain app security:
 	•	The app is built following standard security practices.
@@ -59,14 +59,14 @@ Although we do not collect personal data, we take the following measures to main
 
 ⸻
 
-6. Children’s Privacy
+**6. Children’s Privacy**
 
 Our app is suitable for general audiences but is primarily intended for users preparing for the IELTS exam (typically 16+).
 We do not knowingly collect any information from children under the age of 13.
 
 ⸻
 
-7. Changes to This Privacy Policy
+**7. Changes to This Privacy Policy**
 
 We may update this Privacy Policy from time to time.
 When we do, we will revise the “Effective Date” at the top of the page.
@@ -74,7 +74,7 @@ We encourage you to review this Privacy Policy periodically.
 
 ⸻
 
-8. Contact Us
+**8. Contact Us**
 
 If you have any questions about this Privacy Policy or our practices, you can contact us at:
 
